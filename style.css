@@ -267,3 +267,9 @@
 
     }
 } 
+
+@media  (max-width: 646px) {
+    #aside h2{
+        display: none;
+    }
+}
